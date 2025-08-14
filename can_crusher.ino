@@ -29,7 +29,6 @@ void setup() {
 
   resetCrusher();
   
-  Serial.begin(9600);
   delay(500);
 }
 
